@@ -11,6 +11,7 @@ package-lock.json
 
 # --- added by publish-to-github skill ---
 .venv/
+frontend/.venv/
 venv/
 __pycache__/
 *.pyc
